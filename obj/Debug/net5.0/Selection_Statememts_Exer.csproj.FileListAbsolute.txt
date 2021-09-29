@@ -1,0 +1,16 @@
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\bin\Debug\net5.0\Selection_Statememts_Exer.exe
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\bin\Debug\net5.0\Selection_Statememts_Exer.deps.json
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\bin\Debug\net5.0\Selection_Statememts_Exer.runtimeconfig.json
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\bin\Debug\net5.0\Selection_Statememts_Exer.runtimeconfig.dev.json
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\bin\Debug\net5.0\Selection_Statememts_Exer.dll
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\bin\Debug\net5.0\ref\Selection_Statememts_Exer.dll
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\bin\Debug\net5.0\Selection_Statememts_Exer.pdb
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\obj\Debug\net5.0\Selection_Statememts_Exer.csproj.AssemblyReference.cache
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\obj\Debug\net5.0\Selection_Statememts_Exer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\obj\Debug\net5.0\Selection_Statememts_Exer.AssemblyInfoInputs.cache
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\obj\Debug\net5.0\Selection_Statememts_Exer.AssemblyInfo.cs
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\obj\Debug\net5.0\Selection_Statememts_Exer.csproj.CoreCompileInputs.cache
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\obj\Debug\net5.0\Selection_Statememts_Exer.dll
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\obj\Debug\net5.0\ref\Selection_Statememts_Exer.dll
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\obj\Debug\net5.0\Selection_Statememts_Exer.pdb
+C:\Users\gsida\Desktop\Repo\Selection_Statememts_Exer\obj\Debug\net5.0\Selection_Statememts_Exer.genruntimeconfig.cache
